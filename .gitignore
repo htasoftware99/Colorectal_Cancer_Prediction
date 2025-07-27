@@ -1,0 +1,4 @@
+venv
+logs
+colorectal_cancer_prediction.egg-info
+src/__pycache__
