@@ -3,3 +3,5 @@ logs
 colorectal_cancer_prediction.egg-info
 src/__pycache__
 mlops_pipeline.yaml
+mlruns/
+artifacts/
