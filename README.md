@@ -53,10 +53,3 @@ This project is a machine learning application that predicts the likelihood of c
 ## Kubeflow Pipeline
 
 The `kubeflow_pipeline/mlops_pipeline.py` file defines the MLOps pipeline for this project. This pipeline automates the machine learning workflow, including data processing, model training, and evaluation.
-
-## Future Work
-
-*   Implement user authentication and authorization.
-*   Expand the dataset to improve model accuracy.
-*   Add more advanced data visualizations.
-*   Deploy the application to a cloud platform.
